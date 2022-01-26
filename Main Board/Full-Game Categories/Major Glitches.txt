@@ -1,0 +1,37 @@
+Below are the minimum conditions we advise you to meet in order to guarantee your submission will be accepted. We may reject submissions if some of these conditions are not met and we feel we are not able to verify its legitimacy.
+
+---------------------
+GLOBAL RULES
+---------------------
+ 
+1) Only official Japanese, American and European versions are allowed.
+ 
+2) Turbo is banned. 
+
+3) Pressing Up+Down or Left+Right simultaneously is banned.
+
+4) All major glitches are allowed.
+
+5) FOR TIMES IN TOP 20%:
+* Game Audio MUST be present.
+* The full credits should be shown at the end of the run.
+* Runs should begin with a soft (or hard) reset.
+
+ 
+-------------------------
+EMULATOR RULES
+-------------------------
+ 
+1) Allowed emulators are SNES9X (v.1.5 and later) and BSNES (including higan/byuu)
+
+2) Front ends such as Retroarch and BizHawk are allowed, but additional restrictions apply (No RunAhead on RetroArch, etc.)
+
+3) Emulator specific functionality is banned (e.g. save states, binding multiple keys, Run-Ahead etc).
+
+4) Emulator specific glitches are banned (ex. Arrghus YBA with green potion). Any glitch done must be reproducible on original cart/console.
+
+5) FOR TIMES IN TOP 20%:
+* FPS must be displayed for the duration of the run.
+* Emulator name/version must be visible or shown at the end of the run
+* The input configuration (button mappings) must be visible or shown at the end of the run.
+* Runs on RetroArch must show that Run-Ahead was disabled.

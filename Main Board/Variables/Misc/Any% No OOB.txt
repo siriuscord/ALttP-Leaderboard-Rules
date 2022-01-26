@@ -1,0 +1,13 @@
+-------------------------
+CATEGORY RULES
+-------------------------
+
+1) Timing starts on file select and ends upon entering the Triforce room.
+
+2) All forms of Out of Bounds (OOB) are banned, including EG, DG, and WW.
+
+3) Fake Flute via Yuzuhara's Bottle Adventure is allowed.
+
+4) An input display is preferred but not required.
+
+5) RAM Preparation is banned
