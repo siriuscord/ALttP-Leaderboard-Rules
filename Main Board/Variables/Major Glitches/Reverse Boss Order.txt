@@ -19,5 +19,3 @@ CATEGORY RULES
 5) Rescuing Zelda in Hyrule Castle to end the rain state is required.
 
 6) An input display is preferred but not required.
-
-7) RAM Preparation is banned.
