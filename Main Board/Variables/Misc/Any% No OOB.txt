@@ -1,4 +1,10 @@
 -------------------------
+NO MAJOR GLITCHES RULESET
+-------------------------
+
+All major glitches are banned.
+
+-------------------------
 CATEGORY RULES
 -------------------------
 
@@ -9,5 +15,3 @@ CATEGORY RULES
 3) Fake Flute via Yuzuhara's Bottle Adventure is allowed.
 
 4) An input display is preferred but not required.
-
-5) RAM Preparation is banned
