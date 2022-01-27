@@ -2,9 +2,10 @@
 CUSTOM RULESET
 -------------------------
 
-Fake Flute via Yuzuhara's Bottle Adventure is allowed.
+Yuzuhara's Bottle Adventure using underworld transitions is allowed only for performing a Fake Flute.
+*Transitioning off this screen is banned.
 
-Yuzuhara's Bottle Adventure using overworld transitions is allowed.
+Yuzuhara's Bottle Adventure using overworld transitions is allowed in all forms.
 
 All other major glitches are banned.
 

@@ -12,7 +12,7 @@ GLOBAL RULES
 
 3) Pressing Up+Down or Left+Right simultaneously is banned.
 
-4) RAM Preparation is banned. Power cycle or soft reset before your run to prevent this.
+4) RAM Preparation is banned.
 
 5) FOR TIMES IN TOP 20%:
 * Game Audio MUST be present.
