@@ -23,16 +23,18 @@ GLOBAL RULES
 EMULATOR RULES
 -------------------------
  
-1) Allowed emulators are SNES9X (v.1.5 and later) and BSNES (including higan/byuu)
+1) Allowed emulators are SNES9X (v.1.5 and later) and BSNES (including higan/byuu).
 
-2) Front ends such as Retroarch and BizHawk are allowed, but additional restrictions apply (No RunAhead on RetroArch, etc.)
+2) Front-ends running a valid SNES9X or BSNES emulator core are allowed (Retroarch, BizHawk, etc.).
 
-3) Emulator specific functionality is banned (e.g. save states, binding multiple keys, Run-Ahead etc).
+3) Emulator or front-end specific functionality is banned (e.g. save states, binding multiple keys, run-ahead, etc).
 
-4) Only one action can be mapped to any given button. For example you cannot bind Up and Right to the same button.
+4) One-to-one mapping is required between buttons/keys and inputs. An exception is made for controllers which require mapping diagonals (e.g. Logitech, etc.).
 
-5) FOR TIMES IN TOP 20%:
+5) Input must be continually registered for the duration of the button being depressed (e.g. pressing and hold a direction must register as pressing and holding, not just a single frame of input).
+
+6) FOR TIMES IN TOP 20%:
 * FPS must be displayed for the duration of the run.
 * Emulator name/version should be visible or shown at the end of the run.
 * The input configuration (button mappings) must be visible or shown at the end of the run.
-* Runs on RetroArch must show that Run-Ahead was disabled.
+* Runs on Retroarch and other emulators with the option must show that Run-Ahead was disabled.
