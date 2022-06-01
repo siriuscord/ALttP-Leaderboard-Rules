@@ -1,13 +1,54 @@
 -------------------------
-NO MAJOR GLITCHES RULESET
--------------------------
-
-All major glitches are banned.
-
--------------------------
 CATEGORY RULES
 -------------------------
 
 1) Timing starts on file select and ends upon collecting the Mirror Shield.
 
-2) Saving and quitting (S&Q) and intentionally dying to emulate a S&Q are banned.
+-------------------------
+NO MAJOR GLITCHES RULES
+-------------------------
+
+This category is meant to be played like an optimized casual playthrough, allowing some glitches and some sequence breaking.
+
+The following techniques are allowed in NMG categories:
+* Bomb Jumps
+* Silverless Ganon
+* Torch Glitch
+* Houlihan
+* Item Dashing
+* Superspeed (Armed & Active)
+	* This includes pot and bottle spinspeed using underworld stairs
+* Somaria Bounce method is limited to RMG applications due to Somaria Bounce being RMG
+* Block Push Glitches (Hook/Fire Rod/Mirror)
+* Big Bomb Dupe
+* Big Bomb/Purple Chest Dashing
+* Interior Rail Clipping
+* Hovering
+* Fake Flippers
+* Waterwalk
+* Damage Overriding (i.e. Fire Rod Doubles)
+* Forcing Enemies Off Screen or Out of Bounds (Example)
+* Spooky Action at a Distance
+* Pit-based clipping (i.e. Hammeryump, Mire bomb jump, GT torches 1 pot)
+* Ancilla Overloading
+* Fake Items (Powder, Bow, Mirror, etc.)
+* Heart/Fairy Dupe
+* Slippery Stair Clip
+* Bonk Prize Pre-Grab
+* Boomerange
+* Bastard Door Early Item Drop
+* Medallion Cancel
+* Magic Cape Cheapskate
+* Magic Overflow
+* LSD Blind
+* Remote Purple Chest
+* Sanc & Quit
+* Prize on the Eyes
+* Bunny Glitches
+	* Super Bunny
+	* Surfing/Wriggling Bunny
+	* Bunny Dungeon Revival
+	* 0HP Dungeon Revival
+	* Overworld Bunny Revival
+	* Unbunny Beam
+	* Bunny Pocket
