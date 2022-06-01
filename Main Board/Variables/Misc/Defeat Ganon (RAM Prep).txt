@@ -1,15 +1,26 @@
 -------------------------
-MAJOR GLITCHES RULESET
--------------------------
-
-All major glitches are allowed.
-
--------------------------
 CATEGORY RULES
 -------------------------
 
-1) Timing starts on file select and ends upon entering the Triforce room.
+1) RAM Preparation is allowed, and therefore, starting the run WITHOUT a hard/soft reset is also allowed.
 
-2) An input display is preferred but not required.
+2) Timing starts on file select and ends upon entering the Triforce room.
 
-3) RAM Preparation is allowed, and therefore, starting the run WITHOUT a hard/soft reset is also allowed.
+3) An input display is preferred but not required.
+
+-------------------------
+MAJOR GLITCHES BLACKLIST
+-------------------------
+
+This ruleset is meant to be very unrestrictive to allow use of most glitches. However, a few things which are extremely powerful are banned, so as not to remove too much actual gameplay from speedruns.
+ 
+The following techniques are banned in MG categories:
+* Arbitrary Code Execution
+	* Causing the game to execute values from memory as code/instructions.
+* Arbitrary Memory Writes
+	* Out of Bounds Misslotting:
+		* Misslotting an ancilla to any "slot" higher than 9, or less than 0 (not currently possible)
+		* Any ancilla created must have its ID written to an address between $7E0C4A and $7E0C53, inclusive.
+	* EG2 Out of Bounds Writes
+		* Transferring room data to room IDs on the secondary underworld map (EG2), besides those belonging to properly defined rooms
+		* Specifically, having your room ID become any value in the range $128 and $1FF, inclusive, by any means, is banned.

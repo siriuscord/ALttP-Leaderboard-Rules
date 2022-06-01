@@ -2,6 +2,6 @@
 CATEGORY RULES
 -------------------------
 
-1) Timing starts on file select and ends upon entering the Triforce room.
+1) For this category, Saving and Quitting (S&Q), and intentionally dying to emulate a Save and Quit are allowed.
 
-2) Saving and quitting (S&Q) and intentionally dying to emulate a S&Q are allowed.
+2) Timing starts on file select and ends upon entering the Triforce room.
